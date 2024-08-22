@@ -1,4 +1,4 @@
 # manpreet-demo
 This is my first  git Repository
 <br>
-Author - Manpreet Kaur
+Author - Manpreet (Apna college)
